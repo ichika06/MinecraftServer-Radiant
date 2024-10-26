@@ -1,0 +1,3 @@
+[submodule "mc-bedrock-frontend"]
+    path = mc-bedrock-frontend
+    url = https://github.com/ichika06/mc-bedrock-frontend.git
